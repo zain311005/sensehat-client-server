@@ -1,0 +1,17 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Java
+*.class
+bin/
+out/
+
+# IDEs
+.vscode/
+.idea/
